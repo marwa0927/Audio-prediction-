@@ -36,4 +36,3 @@ Our system utilizes the following key components:
 * **Text-to-Speech (TTS):** `Tacotron2-DDC` for synthesizing the restored speech.
 * **Lip-Reading:** `LipNet` for extracting visual information from lip movements.
 
-The model is trained using PyTorch and potentially leveraging the efficiency of Lightning AI (though this repository might contain the raw PyTorch code).
