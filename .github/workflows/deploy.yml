@@ -31,5 +31,5 @@ jobs:
     - name: Deploy to Lightning AI
       env:
         LIGHTNING_USER_ID: ${{ secrets.LIGHTNING_USER_ID }}
-        LIGHTNING_API_KEY: ${{ secrets.LIGHTNING_API_KEY }}
+        LIGHTNING_API_KEY: ${{ secrets.LIGHTNING_API_KEY }} 
       run: python deploy.py
