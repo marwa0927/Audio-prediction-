@@ -1,0 +1,34 @@
+name: Deploy to Lightning AI
+
+on:
+  push:
+    branches:
+      - main  # change this if you deploy from another branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+
+    - name: Install Lightning SDK
+      run: |
+        pip install lightning-sdk
+
+    - name: Deploy to Lightning AI
+      env:
+        LIGHTNING_USER_ID: ${{ secrets.LIGHTNING_USER_ID }}
+        LIGHTNING_API_KEY: ${{ secrets.LIGHTNING_API_KEY }}
+      run: |
+        python -c " \
+            from lightning_sdk import Deployment; \
+            deployment = Deployment(name='my-deployment', teamspace='my-teamspace'); \
+            deployment.start(); \
+        "
