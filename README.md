@@ -37,13 +37,3 @@ Our system utilizes the following key components:
 * **Lip-Reading:** `LipNet` for extracting visual information from lip movements.
 
 The model is trained using PyTorch and potentially leveraging the efficiency of Lightning AI (though this repository might contain the raw PyTorch code).
-
-## Getting Started
-
-**(Provide clear and concise instructions on how to run your project. This might include:**
-
-  **Prerequisites:**
-    * Python 3.8 or higher
-    * pip (package installer)
-    * CUDA-enabled GPU (recommended for training)
-    * Installation of required libraries (see `requirements.txt`)
