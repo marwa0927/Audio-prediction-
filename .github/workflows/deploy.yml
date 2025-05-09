@@ -3,7 +3,7 @@ name: Deploy to Lightning AI
 on:
   push:
     branches:
-      - main
+      - main  # change this if deploying from another branch
 
 jobs:
   deploy:
@@ -27,7 +27,4 @@ jobs:
         LIGHTNING_USER_ID: ${{ secrets.LIGHTNING_USER_ID }}
         LIGHTNING_API_KEY: ${{ secrets.LIGHTNING_API_KEY }}
       run: |
-        echo "from lightning_sdk import Deployment
-deployment = Deployment(name='audio_prediction', teamspace='Vision-model')
-deployment.start()" > deploy.py
-        python deploy.py
+        python -c "from lightning_sdk import Deployment; deployment = Deployment(name='audio_prediction', teamspace='Vision-model'); deployment.start()"
