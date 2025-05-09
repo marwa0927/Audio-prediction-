@@ -42,24 +42,8 @@ The model is trained using PyTorch and potentially leveraging the efficiency of 
 
 **(Provide clear and concise instructions on how to run your project. This might include:**
 
-1.  **Prerequisites:**
+  **Prerequisites:**
     * Python 3.8 or higher
     * pip (package installer)
     * CUDA-enabled GPU (recommended for training)
     * Installation of required libraries (see `requirements.txt`)
-
-2.  **Installation:**
-    ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git)
-    cd YOUR_REPOSITORY_NAME
-    pip install -r requirements.txt
-    ```
-
-3.  **Dataset:**
-    * Instructions on how to download or prepare the GRID Corpus (if applicable or if you're providing preprocessed data).
-
-4.  **Running the Code:**
-    * Provide specific commands to run training, evaluation, or inference scripts.
-    * Example: `python train.py --config config/default.yaml`
-
-## Repository Structure
