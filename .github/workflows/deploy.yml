@@ -29,6 +29,6 @@ jobs:
       run: |
         python -c " \
             from lightning_sdk import Deployment; \
-            deployment = Deployment(name='my-deployment', teamspace='my-teamspace'); \
+            deployment = Deployment(name='audio_prediction', teamspace='Vision-model'); \
             deployment.start(); \
         "
