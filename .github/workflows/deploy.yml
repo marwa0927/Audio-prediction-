@@ -27,8 +27,8 @@ jobs:
         LIGHTNING_USER_ID: ${{ secrets.LIGHTNING_USER_ID }}
         LIGHTNING_API_KEY: ${{ secrets.LIGHTNING_API_KEY }}
       run: |
-        python -c " \
-            from lightning_sdk import Deployment; \
-            deployment = Deployment(name='audio_prediction', teamspace='Vision-model'); \
-            deployment.start(); \
-        "
+        python -c "" 
+            from lightning_sdk import Deployment; 
+            deployment = Deployment(name='audio_prediction', teamspace='Vision-model'); 
+            deployment.start(); 
+        ""
