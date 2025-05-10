@@ -1,0 +1,66 @@
+MIT License
+
+Copyright (c) 2025 Al Akhawayn University and the Multimodal Speech Restoration Team:
+Meryam Khatib (@mkh227)
+Yousra Chtouki (@cyousra)
+Marwa Elzraq (@marwa0927)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+**Attribution Requirements for Use:**
+
+Any use, distribution, or modification of this project must include clear and visible attribution to the original creators. This attribution must include the following:
+
+* A direct link to the project's GitHub repository (replace with your actual link).
+* The names and GitHub usernames of all contributing team members:
+    * Meryam Khatib (@mkh227)
+    * Yousra Chtouki (@cyousra)
+    * Marwa Elzraq (@marwa0927)
+* The institution: Al Akhawayn University.
+
+---
+
+**Restrictions (Clarification):**
+
+This license clarifies the following:
+
+* **No Exclusive Rights:** No single contributor is granted exclusive rights to the entire project or specific components unless explicitly stated in a separate written agreement.
+* **Resale Requires Consent:** Reselling the project or substantial portions of it for commercial gain requires the explicit and documented consent of all contributing team members.
+* **No Promotional Use Without Consent:** The names or likenesses of contributors may not be used for promotional or endorsement purposes related to this project without obtaining their explicit and documented consent.
+
+---
+
+**Disputes:**
+
+In the event of a conflict over ownership or misuse, the following steps should be taken:
+
+1.  **Internal Discussion:** The primary step is a good-faith discussion among all contributing team members to resolve the issue.
+2.  **Escalation:** If the issue remains unresolved, it may be brought to the attention of the relevant course instructor or Al Akhawayn University’s academic integrity or legal office for guidance.
+
+---
+
+**Signatures (Acknowledgement):**
+
+By using or contributing to this project, you acknowledge and agree to the terms outlined in this MIT License and the additional attribution and restriction clauses specified herein.
+
+Meryam Khatib (Signature: Meryam Khatib, Date: 10/05/2025)
+Marwa Elzraq (Signature: Marwa Elazraq, Date: 10/05/2025)
+Yousra Chtouki (Signature: [Space for Signature], Date: 10/05/2025)
