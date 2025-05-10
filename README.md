@@ -1,9 +1,11 @@
 # Multimodal Speech Restoration Leveraging Audio Signals and Visual Context
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Lightning AI](https://img.shields.io/badge/Lightning_AI-%23ed0059.svg?style=flat-square&logo=lightning&logoColor=white)](https://lightning.ai/)
 [![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME)
+
 
 ## Overview
 
